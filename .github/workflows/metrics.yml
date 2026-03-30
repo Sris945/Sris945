@@ -1,18 +1,19 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}] 
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate ISO calendar
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
