@@ -43,6 +43,14 @@
 * Building AI startups and productizing research  
 * Python, FastAPI, and AI system architecture
 
+# 📊 GitHub Stats (Catppuccin Mocha)
+
+![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sris945&show_icons=true&theme=catppuccin_mocha)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sris945&theme=catppuccin_mocha)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sris945&layout=compact&theme=catppuccin_mocha)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sris_945) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-s-44099425a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssridhar0945@gmail.com) 
 
